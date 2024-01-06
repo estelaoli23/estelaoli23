@@ -27,10 +27,10 @@
 |---|---||
 
 ## General Stats
-[![Estela Stats](https://github-readme-stats.vercel.app/api?username=ste2021&show_icons=true&theme=midnight-purple)](https://github.com/ste2021/)
+[![Estela Stats](https://github-readme-stats.vercel.app/api?username=estelaoli23&show_icons=true&theme=midnight-purple)](https://github.com/estelaoli23/)
 
 ## Programming Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ste2021&show_icons=true&theme=midnight-purple)](https://github.com/ste2021)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estelaoli23&show_icons=true&theme=midnight-purple)](https://github.com/estelaoli23/)
 
 
 
