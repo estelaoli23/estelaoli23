@@ -24,7 +24,7 @@
 
 ## You can find me here: 
 |  Likedin: [Estela Oliveira](https://www.linkedin.com/in/estela-oliveira-989628104) <img src="https://github.com/ste2021/backcasecrescere/blob/master/iconfinder_social_media_social_media_logo_likedin_2993765.png" width=20 height=20/> | Perfil [Codepen](https://codepen.io/ste2021/pens/public) <img src="https://github.com/ste2021/images-icons/blob/master/codepen.svg" width=20 height=20/>|
-|---	|---	|	|
+|---|---||
 
 ## General Stats
 [![Estela Stats](https://github-readme-stats.vercel.app/api?username=ste2021&show_icons=true&theme=midnight-purple)](https://github.com/ste2021/)
