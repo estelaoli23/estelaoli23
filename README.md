@@ -17,11 +17,11 @@
 
 ### Studying Technologies
 
-- [x] [AWS](https://aws.amazon.com/pt/)
-- [x] [Django](https://www.djangoproject.com/)
-- [x] [Pandas](https://pandas.pydata.org/)  <img src = "https://github.com/ste2021/images-icons/blob/master/panda.png" width=17 height=17 />
 - [x] [Dotnet](https://dotnet.microsoft.com/pt-br/)
 - [x] [C#](https://dotnet.microsoft.com/pt-br/languages/csharp)
+- [x] [AWS](https://aws.amazon.com/pt/)
+- [x] [Arquitetura Software](https://www.djangoproject.com/](https://arquiteturadesoftware.online/fundamentos-para-arquiteturas-de-sistemas-resilientes-capitulo-13-v-1-01/))
+- [x] [DDD](https://engsoftmoderna.info/artigos/ddd.html#:~:text=Os%20princ%C3%ADpios%20defendidos%20por%20DDD,neg%C3%B3cio%20que%20ele%20pretende%20resolver.)
 
 ## You can find me here: 
 |  Likedin: [Estela Oliveira](https://www.linkedin.com/in/estela-oliveira-989628104) <img src="https://github.com/ste2021/backcasecrescere/blob/master/iconfinder_social_media_social_media_logo_likedin_2993765.png" width=20 height=20/> | Perfil [Codepen](https://codepen.io/ste2021/pens/public) <img src="https://github.com/ste2021/images-icons/blob/master/codepen.svg" width=20 height=20/>|
