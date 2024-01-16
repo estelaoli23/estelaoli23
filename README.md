@@ -22,12 +22,9 @@
  <a href="https://www.credly.com/badges/ce13b98c-1206-4f47-9022-1a30783ece84">
  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=80 height=75> 
  </a>
-## General Stats
-[![Estela Stats](https://github-readme-stats.vercel.app/api?username=estelaoli23&show_icons=true&theme=midnight-purple)](https://github.com/estelaoli23/)
-
-## Programming Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estelaoli23&show_icons=true&theme=midnight-purple)](https://github.com/estelaoli23/)
-
+ 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=estelaoli23&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estelaoli23&layout=compact&theme=highcontrast&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 
