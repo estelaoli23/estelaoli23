@@ -6,13 +6,13 @@ I currently work with data analysis, using python integrated with aws, I am pass
 ## Badges
  <p float="left">
  </a>
- <a href="https://www.credly.com/badges/0d95a107-8021-460f-a11a-a28cdc5cec92/public_url">
+ <a href="https://www.credly.com/badges/0d95a107-8021-460f-a11a-a28cdc5cec92/public_url" target="_blank">
  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=80 height=75> 
-  <a href="https://brasilopenbadge.com.br/pages/badge/695c36d85832068177a72494f397e4e3">
+  <a href="https://brasilopenbadge.com.br/pages/badge/695c36d85832068177a72494f397e4e3" target="_blank">
  <img src="https://brasilopenbadge.com.br/badge/3018.png?nocache=426064376" width=80 height=75> 
  </a>
   </a>
- <a href="https://www.brasilopenbadge.com.br/pages/badge/4fd079f83701dbd523d9727ecb9df91b">
+ <a href="https://www.brasilopenbadge.com.br/pages/badge/4fd079f83701dbd523d9727ecb9df91b" target="_blank">
  <img src="https://www.brasilopenbadge.com.br/badge/3694.png?nocache=426062358" width=80 height=75> 
  </a>
  </p>
