@@ -22,11 +22,9 @@ I currently work with data analysis, using python integrated with aws, I am pass
  
 ## Badges
 </a>
- <a href="https://www.credly.com/badges/5aa6a0ad-5464-4c56-be4c-96e6743280ce">
+ <a href="https://www.credly.com/badges/0d95a107-8021-460f-a11a-a28cdc5cec92/public_url">
  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=120 height=90> 
  </a>
-
-
 
 
 
