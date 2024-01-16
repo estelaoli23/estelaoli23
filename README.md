@@ -39,10 +39,10 @@ I currently work with data analysis, using python integrated with aws, I am pass
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width=35 height=35/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" alt="rains" style="max-width:100%;" width=35 height=35 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width=35 height=35/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width=35 height=35/>
- <img src="https://miro.com/templates/aws-architecture-diagram/" width=35 height =35/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width=35 height =35/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width=35 height =35/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width=35 height=35/>
+<img src="https://miro.com/templates/aws-architecture-diagram/" width=35 height =35/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width=35 height =35/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width=35 height =35/>
 </p>
 
 
