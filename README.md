@@ -46,7 +46,6 @@ I currently work with data analysis, using python integrated with aws, I am pass
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="rains" style="max-width:100%;" width=35 height=35/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width=35 height=35/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="rains" style="max-width:100%;" width=35 height=35 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="rains" style="max-width:100%;" width=35 height=35 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width=35 height=35 />
  <p float="left">
 
