@@ -22,10 +22,6 @@
 - [x] [Javascript](https://www.w3schools.com/js/default.asp) <img src = "https://github.com/ste2021/images-icons/blob/master/icons8-javascript-48.png" width=18 height=18 />
 - [x] [Metodologias Ágeis](https://ligaagil.com.br/blog/metodologias-ageis-o-que-sao-e-quais-os-principais-tipos/)🎯
 
-## You can find me here: 
-|  Likedin: [Estela Oliveira](https://www.linkedin.com/in/estela-oliveira-989628104) <img src="https://github.com/ste2021/backcasecrescere/blob/master/iconfinder_social_media_social_media_logo_likedin_2993765.png" width=20 height=20/> | Perfil [Codepen](https://codepen.io/ste2021/pens/public) <img src="https://github.com/ste2021/images-icons/blob/master/codepen.svg" width=20 height=20/>|
-|---|---||
-
 ## General Stats
 [![Estela Stats](https://github-readme-stats.vercel.app/api?username=estelaoli23&show_icons=true&theme=midnight-purple)](https://github.com/estelaoli23/)
 
