@@ -23,7 +23,7 @@ I currently work with data analysis, using python integrated with aws, I am pass
 ## Badges
 </a>
  <a href="https://www.credly.com/badges/ce13b98c-1206-4f47-9022-1a30783ece84">
- <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=80 height=75> 
+ <img src="https://images.credly.com/size/420x420/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=80 height=75> 
  </a>
 
 
