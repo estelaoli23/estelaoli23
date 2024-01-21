@@ -59,8 +59,7 @@ I currently work with data analysis, using python integrated with aws, I am pass
 <!-- ESTUDANDO NESSE MOMENTO -->
 ### Studying in this moment:
 
-![Udemy](https://img.shields.io/badge/Udemy-0D1117?style=for-the-badge&logo=Udemy&logoColor=A435F0)&nbsp;
->
+##### BTI - Univesp - 2024
 
 
 
