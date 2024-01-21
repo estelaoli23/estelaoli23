@@ -60,13 +60,13 @@ I currently work with data analysis, using python integrated with aws, I am pass
 ### Studying in this moment:
 
 ![Udemy](https://img.shields.io/badge/Udemy-0D1117?style=for-the-badge&logo=Udemy&logoColor=A435F0)&nbsp;
-![Bacharelado Tecnologia da Informação](https://img.shields.io/badge/BACHAREL-Data_Science_--_[2025]-blue)&nbsp;
+![Bacharelado Tecnologia da Informação](https://img.shields.io/badge/BACHAREL-Tecnologia-da-Informação_--_[2024]-blue)&nbsp;
 
 
 <!-- TÍTULOS FORMADOS -->
 ### Titles -> Study Completed:
-![EngeneerProduction&Automation](https://img.shields.io/badge/BACHAREL-Engeneer_Production_&_Automation_--_[2023]-purple)&nbsp;<br>
-![TECHNICIAN](https://img.shields.io/badge/TECHNICIAN-System_Developer_--_[2022]-darkorange)&nbsp;<br>
-![TECHNICIAN](https://img.shields.io/badge/TECHNICIAN-Mechatronics_--_[2011]-darkorange)&nbsp;<br>
+![Bacharel Contabilidade](https://img.shields.io/badge/BACHAREL-Bacharel-Contabilidade_--_[2019]-purple)&nbsp;<br>
+![TECHNICIAN](https://img.shields.io/badge/TECHNICIAN-Sistemas-FATEC_--_[2022]-darkorange)&nbsp;<br>
+
 
 
