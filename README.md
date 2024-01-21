@@ -12,7 +12,7 @@ I currently work with data analysis, using python integrated with aws, I am pass
  <img src="https://brasilopenbadge.com.br/badge/3018.png?nocache=426064376" width=90 height=85> 
  </a>
   </a>
- <a href="https://www.brasilopenbadge.com.br/pages/badge/4fd079f83701dbd523d9727ecb9df91b" target="_blank">
+ <a href="[https://www.brasilopenbadge.com.br/pages/badge/4fd079f83701dbd523d9727ecb9df91b](https://www.brasilopenbadge.com.br/pages/badge/4fd079f83701dbd523d9727ecb9df91b)" target="_blank">
  <img src="https://www.brasilopenbadge.com.br/badge/3694.png?nocache=426062358" width=90 height=85> 
  </a>
  </p>
