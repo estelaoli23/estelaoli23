@@ -60,13 +60,7 @@ I currently work with data analysis, using python integrated with aws, I am pass
 ### Studying in this moment:
 
 ![Udemy](https://img.shields.io/badge/Udemy-0D1117?style=for-the-badge&logo=Udemy&logoColor=A435F0)&nbsp;
-![Bacharelado Tecnologia da Informação](https://img.shields.io/badge/BACHAREL-Tecnologia-da-Informação_--_[2024]-blue)&nbsp;
-
-
-<!-- TÍTULOS FORMADOS -->
-### Titles -> Study Completed:
-![Bacharel Contabilidade](https://img.shields.io/badge/BACHAREL-Bacharel-Contabilidade_--_[2019]-purple)&nbsp;<br>
-![TECHNICIAN](https://img.shields.io/badge/TECHNICIAN-Sistemas-FATEC_--_[2022]-darkorange)&nbsp;<br>
+>
 
 
 
