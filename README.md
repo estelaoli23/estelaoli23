@@ -13,7 +13,7 @@ I currently work with data analysis, using python integrated with aws, I am pass
  </a>
   </a>
  <a href="http://badges.com.br/share/4fd079f83701dbd523d9727ecb9df91b.php?a=3694" target="_blank">
- <img src="https://www.brasilopenbadge.com.br/badge/3694.png?nocache=426062358" width=95 height=85> 
+ <img src="https://www.brasilopenbadge.com.br/badge/3694.png?nocache=426062358" width=95 height=80> 
  </a>
  </a>
  <a href="https://www.brasilopenbadge.com.br/pages/badge/8f6668cc786ec1bc8c0d2de753114c89" target="_blank">
