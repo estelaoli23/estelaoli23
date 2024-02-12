@@ -7,7 +7,7 @@ I currently work with data analysis, using python integrated with aws, I am pass
  <p float="left">
  </a>
  <a href="https://www.credly.com/badges/0d95a107-8021-460f-a11a-a28cdc5cec92/public_url" target="_blank">
- <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=95 height=80> 
+ <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=95 height=87> 
   <a href="http://badges.com.br/share/695c36d85832068177a72494f397e4e3.php?a=3018" target="_blank">
  <img src="https://brasilopenbadge.com.br/badge/3018.png?nocache=426064376" width=95 height=80> 
  </a>
