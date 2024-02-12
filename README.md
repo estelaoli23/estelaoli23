@@ -15,6 +15,10 @@ I currently work with data analysis, using python integrated with aws, I am pass
  <a href="http://badges.com.br/share/4fd079f83701dbd523d9727ecb9df91b.php?a=3694" target="_blank">
  <img src="https://www.brasilopenbadge.com.br/badge/3694.png?nocache=426062358" width=90 height=85> 
  </a>
+ </a>
+ <a href="https://www.brasilopenbadge.com.br/pages/badge/8f6668cc786ec1bc8c0d2de753114c89" target="_blank">
+ <img src="https://www.brasilopenbadge.com.br/badge/5758.png?nocache=212929270" width=90 height=85> 
+ </a>
  </p>
  
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=estelaoli23&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estelaoli23&layout=compact&theme=highcontrast&hide_border=true" /></a> |
