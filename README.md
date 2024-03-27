@@ -1,6 +1,6 @@
 ﻿### Hi Everyone! 🖖 <p align="right"> <img src="https://komarev.com/ghpvc/?username=estelaoli23&label=Profile%20views&color=0e75b6&style=flat" alt="profile_estelaoli23" /> </p>
 ---
-I currently work with data analysis, using python integrated with aws, I am passionate about learning, at the moment I am deepening in resilient software architecture in the cloud ❤️
+I currently work with data analysis, using python integrated with aws, I am passionate about learning, at the moment I am deepening in resilient software architecture in the cloud and contruction of API's utilizando DDD ❤️
 
 
 ## Badges
